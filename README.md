@@ -1,16 +1,10 @@
-+      BÀI TIỂU LUẬN MÔN HỌC NHẬP MÔN XỬ LÝ ẢNH         +
-+                                                       +
-+  Đề tài: “Giải bài tập môn Lập trình căn bản bằng     +
-+         ngôn ngữ lập trình Python”                    +
++      BÀI TIỂU LUẬN MÔN HỌC NHẬP MÔN XỬ LÝ ẢNH                                                                +
++  Đề tài: “Giải bài tập môn Lập trình căn bản bằng ngôn ngữ lập trình Python”                                 +
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++	   
-GVHD: Ngô Thanh Tú
-Sinh viên thực hiện:
-		Nguyễn Lê Xuân Phước
-		Tôn Nữ Nguyên Hậu
-		Đỗ Tống Quốc
 	Lớp: 16DDS06031						
 
 #####################################################################	
+
 LỜI MỞ ĐẦU
 CHƯƠNG I. GIỚI THIỆU NGÔN NGỮ PYTHON	
 1.	Lịch sử phát triển	
@@ -30,5 +24,5 @@ CHƯƠNG III. GIẢI CÁC BÀI TẬP MÔN LẬP TRÌNH CĂN BẢN
 1.	Bài Tập Nhóm A	
 2.	Bài Tập Nhóm B	
 3.	Bài Tập Nhóm C	
-######################################################################
+
 
